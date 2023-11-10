@@ -1,1 +1,1 @@
-### Hi, I'm Mo'minjon Qadambayev <image src="https://giphy.com/embed/gM5qFksULw54NMWyry" width="40" height="40" frameBorder="0" class="giphy-embed" allowFullScreen></image>
+### Hi, I'm Mo'minjon Qadambayev <image src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47lnd5bv3mg0c86spo7hxvq4teihs9lezo8cq3kzwm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" height="40" frameBorder="0" class="giphy-embed" allowFullScreen></image>
